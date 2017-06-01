@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diagnostic_title">Diagnostiques</string>
+    <string name="diagnostic_os_name_title">Système</string>
+    <string name="diagnostic_os_version_title">Version système</string>
+    <string name="diagnostic_device_model_title">Modèle</string>
+    <string name="diagnostic_app_version_title">Version app</string>
+    <string name="diagnostic_battery_level_title">Niveau batterie</string>
+    <string name="diagnostic_total_disk_title">Espace disque total</string>
+    <string name="diagnostic_available_disk_title">Espace disque disponible</string>
+    <string name="diagnostic_memory_usage_title">Utilisation mémoire</string>
+    <string name="diagnostic_connectivity_title">Connectivité</string>
+    <string name="diagnostic_connectivity_offline">Hors ligne</string>
+    <string name="diagnostic_connectivity_online">Connecté</string>
+    <string name="diagnostic_connectivity_unknown">Inconnu</string>
+    <string name="diagnostic_memory_mb_unit">Mo</string>
+</resources>

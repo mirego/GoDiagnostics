@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mirego.godiagnostics">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+
+        <activity
+            android:name="com.mirego.godiagnostics.DiagnosticsActivity"
+            android:label="@string/diagnostic_title"
+            android:screenOrientation="portrait">
+        </activity>
+
+    </application>
+</manifest>

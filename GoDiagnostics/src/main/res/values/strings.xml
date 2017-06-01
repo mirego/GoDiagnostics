@@ -1,0 +1,18 @@
+<resources>
+    <string name="diagnostic_os_name">Android</string>
+
+    <string name="diagnostic_title">Diagnostics</string>
+    <string name="diagnostic_os_name_title">OS</string>
+    <string name="diagnostic_os_version_title">OS version</string>
+    <string name="diagnostic_device_model_title">Device model</string>
+    <string name="diagnostic_app_version_title">App version</string>
+    <string name="diagnostic_battery_level_title">Battery level</string>
+    <string name="diagnostic_total_disk_title">Total disk space</string>
+    <string name="diagnostic_available_disk_title">Available disk space</string>
+    <string name="diagnostic_memory_usage_title">Memory usage</string>
+    <string name="diagnostic_connectivity_title">Connectivity</string>
+    <string name="diagnostic_connectivity_offline">Offline</string>
+    <string name="diagnostic_connectivity_online">Online</string>
+    <string name="diagnostic_connectivity_unknown">Unknown</string>
+    <string name="diagnostic_memory_mb_unit">MB</string>
+</resources>
