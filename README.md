@@ -7,6 +7,13 @@ A library that offers you an easy way to add a diagnostics activity to your Andr
 Add the dependency to your project's `build.gradle`:
 
 ```
+repositories {
+    jcenter()
+    maven {
+        url 'https://mirego.bintray.com/public'
+    }
+}
+...
 dependencies {
 	compile 'com.mirego.public:GoDiagnostics:<RELEASE_VERSION>'
 }
